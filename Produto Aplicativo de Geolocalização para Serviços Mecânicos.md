@@ -66,7 +66,6 @@ Cada oficina cadastrada possui uma ficha completa contendo:
 - O usuário pode revogar permissão de localização a qualquer momento nas configurações.
 
 ### SUPORTE
-════════════════════════════════════════
 - Central de ajuda: suporte.meumecanico.com.br
 - E-mail: suporte@meumecanico.com.br
 - Atendimento: segunda a sexta, 9h às 18h (horário de Brasília).
