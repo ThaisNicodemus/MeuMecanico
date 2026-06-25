@@ -12,4 +12,5 @@ Conectividade e Localização: Sua principal função é servir como a interface
 Foco em Resultados: O projeto onde o agente está inserido enfatiza a entrega de alta performance, utilizando tecnologias modernas de inteligência artificial para otimizar o atendimento e a precisão das informações
 
 GPT agent: https://chatgpt.com/g/g-691b335cf518819181cda35e6ccc8303-meumecanico
+
 Noteebooklm: https://notebooklm.google.com/notebook/3d28fd0d-a97d-41cc-a182-185c622106ae
